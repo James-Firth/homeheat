@@ -1,0 +1,10 @@
+{
+  "hue": {
+    "ip": "HUB IP",
+    "appUsername": "randomstring"
+  },
+  "sheets": {
+    "id": "GOOGLE SHEET ID",
+    "range": "Sheet1!A3:D"
+  }
+}

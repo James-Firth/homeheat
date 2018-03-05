@@ -1,0 +1,31 @@
+{
+  "name": "homeheat",
+  "version": "0.0.1",
+  "description":
+    "Track your home's temperature from Philips Hue Motion Sensors in a Google Spreadsheet.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "config": "^1.30.0",
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^24.0.0",
+    "moment": "^2.21.0",
+    "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Firth",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Firth/homeheat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/James-Firth/homeheat/issues"
+  },
+  "homepage": "https://github.com/James-Firth/homeheat#readme"
+}
